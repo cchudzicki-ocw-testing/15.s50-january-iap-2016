@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Video Slides
+optional_text: '[Lecture 4: Preflop Re-raising Theory (PDF - 1MB)](resources/mit15_s50iap16_l4)'
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 4: Preflop Re-raising Theory'
 uid: 9fb5e558-d470-03d3-cbc6-4511a92f2cce

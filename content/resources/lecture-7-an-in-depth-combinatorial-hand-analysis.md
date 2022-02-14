@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: '[Lecture 7: An In-depth Combinatorial Hand Analysis in Cash Games
+  (PDF - 3.2MB)](resources/mit15_s50iap16_l7)'
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 7: An In-depth Combinatorial Hand Analysis'
 uid: d2e2d5f0-3af3-b47f-0ab6-c167b6cbebe7

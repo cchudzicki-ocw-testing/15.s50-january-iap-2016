@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Lecture 6: Independent Chip Model (PDF)](resources/mit15_s50iap16_l6)'
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 6: Independent Chip Model'
 uid: f7928d64-ba6d-1f4a-3f28-af699f0cf063

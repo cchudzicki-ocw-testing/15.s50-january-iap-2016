@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Lecture 1: Overview and Introduction (PDF - 6.5MB)](resources/mit15_s50iap16_l1)'
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1: Overview and Introduction'
 uid: 9b1638de-aa8d-189d-7a8a-6a72b21aeebd

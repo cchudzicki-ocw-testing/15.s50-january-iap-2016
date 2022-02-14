@@ -3,7 +3,9 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/15-s50-how-to-win-at-texas-holdem-poker-january-iap-2016/fde6c17f943c5392a9d50b1665e4099d_zlmokDj0DaU.vtt
 file_type: application/x-subrip
+learning_resource_types: []
 resourcetype: Other
 title: 3play caption file
+type: OCWFile
 uid: fde6c17f-943c-5392-a9d5-0b1665e4099d
 ---

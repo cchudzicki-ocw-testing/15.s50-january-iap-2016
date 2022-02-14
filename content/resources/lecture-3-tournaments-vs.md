@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Lecture 3: Tournamnents vs. Cash Games (PDF - 8.5MB)](resources/mit15_s50iap16_l3)'
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 3: Tournaments vs. Cash Games'
 uid: 85236056-559d-2648-0574-874460920562
