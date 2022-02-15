@@ -9,6 +9,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 1: Overview and Introduction'
-type: OCWFile
 uid: 344b1ada-fb25-4e99-25e7-12d0e1832129
 ---
