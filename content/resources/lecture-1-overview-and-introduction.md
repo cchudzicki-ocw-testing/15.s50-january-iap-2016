@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Lecture 1: Overview and Introduction (PDF - 6.5MB)](resources/mit15_s50iap16_l1)'
 parent_title: Video Lectures

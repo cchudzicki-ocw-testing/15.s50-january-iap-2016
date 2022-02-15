@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Video Slides
 optional_text: '[Lecture 2: Introduction to Postflop Play (PDF - 14.6MB)](/ans7870/15/15.S50/IAP16/MIT15_S50IAP16_L2.pdf)'
 parent_title: Video Lectures
