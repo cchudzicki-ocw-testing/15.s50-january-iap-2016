@@ -7,7 +7,7 @@ learning_resource_types:
 ocw_type: ''
 optional_tab_title: ''
 optional_text: '[Lecture 7: An In-depth Combinatorial Hand Analysis in Cash Games
-  (PDF - 3.2MB)](resources/mit15_s50iap16_l7)'
+  (PDF - 3.2MB)](/courses/15-s50-how-to-win-at-texas-holdem-poker-january-iap-2016/resources/mit15_s50iap16_l7)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
