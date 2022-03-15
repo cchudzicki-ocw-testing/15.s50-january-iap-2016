@@ -6,7 +6,7 @@ learning_resource_types:
 - Lecture Videos
 ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Lecture 3: Tournamnents vs. Cash Games (PDF - 8.5MB)](resources/mit15_s50iap16_l3)'
+optional_text: '[Lecture 3: Tournamnents vs. Cash Games (PDF - 8.5MB)](/courses/15-s50-how-to-win-at-texas-holdem-poker-january-iap-2016/resources/mit15_s50iap16_l3)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
