@@ -9,7 +9,7 @@ uid: a7d55677-11a8-9643-0994-3b1052d24994
 ---
 ## Homework
 
-### Pset 1
+### Problem Set 1
 
 1. In Jennifer Tilly's hand, she has Jd Jc, and the board is Ts Jh 7c Ks Kc. List all hands that actually beat her (you don't have to list suits, just cards).
 2. In Texas Hold'em, getting dealt two Aces ("pocket Aces") is the best possible starting hand you can hope for. What is the probability of getting dealt this hand?
@@ -20,21 +20,21 @@ Question 4 is taken from Eric Beren's poker homework at Jane Street Capital.
 
 {{< div-with-class "reveal1">}}
 
-› _Pset 1 Solutions (click to reveal / hide)_
+› _Problem Set 1 Solutions (click to reveal / hide)_
 
 {{< /div-with-class >}}{{< div-with-class "toggle1">}}
 
 1. KK, KJ, KT, and K7 (any suits)
 2. 4/52 is the probability of getting the first ace; 3/51 is the probability of getting the second ace after getting the first ace. Multiply those together to get 1/221 or approximately 0.45%.
 3. Intuitively, the best strategy is to raise and attempt to “steal” the blinds with any 2 cards, since the blinds are only putting up resistance with AA, which occurs with a very small probability (calculated in Question 2). However, if they do put up resistance, then we should only continue on flops where we can beat AA, since we know they have AA.
-4. At this point in the hand, 7 cards (the 2 cards in each player’s hand, and the 3 flop cards) have been exposed. Out of the 45 cards remaining in the deck, 6 are “good”, 9 are “bad”, and 30 are “neutral”. We are interested in the probability of hitting at least one good card without hitting any bad cards. This can occur if we hit two good cards, or one good card and one neutral card. The probability of hitting two good cards is 6/45\*5/44=1/66. The probability of hitting a good card and a neutral card is 2\*(6/45\*30/44)=3/55. Add these fractions to get 13/66. To construct an example, think of where the numbers 9 or 6 could come from. The 9 “bad” cards could correspond to our opponent having 4 to a flush, and needing 1 of the remaining 9 from the suit. The 6 “good” cards could correspond to one of 6 outs to hit an open-ended straight draw (after subtracting the 2 outs which would complete a flush). A concrete example is:   
-    Us: 9c 8c   
-    Opponents: Kh Ks   
+4. At this point in the hand, 7 cards (the 2 cards in each player’s hand, and the 3 flop cards) have been exposed. Out of the 45 cards remaining in the deck, 6 are “good”, 9 are “bad”, and 30 are “neutral”. We are interested in the probability of hitting at least one good card without hitting any bad cards. This can occur if we hit two good cards, or one good card and one neutral card. The probability of hitting two good cards is 6/45\*5/44=1/66. The probability of hitting a good card and a neutral card is 2\*(6/45\*30/44)=3/55. Add these fractions to get 13/66. To construct an example, think of where the numbers 9 or 6 could come from. The 9 “bad” cards could correspond to our opponent having 4 to a flush, and needing 1 of the remaining 9 from the suit. The 6 “good” cards could correspond to one of 6 outs to hit an open-ended straight draw (after subtracting the 2 outs which would complete a flush). A concrete example is:    
+    Us: 9c 8c    
+    Opponents: Kh Ks    
     Board: Th 7h 2h
 
 {{< /div-with-class >}}
 
-### Pset 2
+### Problem Set 2
 
 Jen is dealt a random card from a deck with the cards 1,2,…,10. Bill is dealt a random card from a separate deck with the cards 1,2,…,10. Both players are forced to ante $50 into the pot at the start of the hand.
 
@@ -46,20 +46,20 @@ Example: vs. Bill Cosby who calls every card, we only want to "value-bet". The b
 
 .5(.7\*(+150)+.3\*(-150))+.5(.2\*(+50)+.8\*(-50)) = 15
 
-1. Bill Gates: very tight, he will only call with a 10+.   
+1. Bill Gates: very tight, he will only call with a 10+.    
     1 2 3 4 5 6 7 8 9 10
-2. Bill Nye: pretty loose; he will call with 4+.   
+2. Bill Nye: pretty loose; he will call with 4+.    
     1 2 3 4 5 6 7 8 9 10
-3. Bill Clinton: pretty tight; he will call with 8+.   
+3. Bill Clinton: pretty tight; he will call with 8+.    
     1 2 3 4 5 6 7 8 9 10
-4. **(bonus)** Bill Chen: he will call with the optimal strategy. Namely, he will call with a range of hands that minimizes how much you expect to win per game. This could be a randomized strategy, eg. "Always call 8+, and call a 7 60% of the time." Outline what his optimal strategy is, and circle the hands you would bet against this strategy.   
-    1 2 3 4 5 6 7 8 9 10   
+4. **(bonus)** Bill Chen: he will call with the optimal strategy. Namely, he will call with a range of hands that minimizes how much you expect to win per game. This could be a randomized strategy, eg. "Always call 8+, and call a 7 60% of the time." Outline what his optimal strategy is, and circle the hands you would bet against this strategy.    
+    1 2 3 4 5 6 7 8 9 10    
       
     **(corollary to bonus)** If Jen Shahade (who plays the optimal strategy for Jen vs. Bill's optimal strategy) plays vs. Bill Chen, who is expected to win? The player who gets to bet (Jen) or the player who wins ties (Bill)?
 
 {{< div-with-class "reveal2">}}
 
-› _Pset 2 Solutions (click to reveal / hide)_
+› _Problem Set 2 Solutions (click to reveal / hide)_
 
 {{< /div-with-class >}}{{< div-with-class "toggle2">}}
 
