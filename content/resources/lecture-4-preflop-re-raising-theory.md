@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this session, Will Ma plays through the hands of an online tournament and touches on some key concepts.
 
 **Instructor:** Will Ma
+

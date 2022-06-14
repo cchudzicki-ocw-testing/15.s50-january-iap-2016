@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture covers aspects of calculating equity and chip values during tournament play, and continues the play-through of the tournament from Lecture 4.
 
 **Instructor:** Will Ma
+
