@@ -35,3 +35,4 @@ video_metadata:
 **Description:** In this session, the instructor walks the students through an in-depth analysis of various hands, and conclude with some general thoughts about the game of poker.
 
 **Instructor:** Will Ma
+

@@ -34,3 +34,4 @@ video_metadata:
 **Description:** Will Ma gives an overview of the general topics and structure of the course, and begins the course by covering the basics of poker reasoning and play.
 
 **Instructor:** Will Ma
+

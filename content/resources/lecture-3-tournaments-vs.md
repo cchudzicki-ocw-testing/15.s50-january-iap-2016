@@ -34,3 +34,4 @@ video_metadata:
 **Descriptions:** In this lecture, Will Ma outlines the differences between playing in tournaments and cash games.
 
 **Instructor:** Will Ma
+
