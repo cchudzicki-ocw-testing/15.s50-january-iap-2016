@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This section contains the lecture slides for the course. '
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
