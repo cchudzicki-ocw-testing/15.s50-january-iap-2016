@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This section contains the homework and solutions for the course. '
 draft: false
 learning_resource_types:
 - Assignments
