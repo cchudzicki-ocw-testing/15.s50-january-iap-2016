@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Lecture 6: Independent Chip Model (PDF)](/courses/15-s50-how-to-win-at-texas-holdem-poker-january-iap-2016/resources/mit15_s50iap16_l6)'
